@@ -34,7 +34,7 @@ chat = {
 }
 
 info = {
-   "Pronoun": "he", 
+   "Pronoun": "his", 
    "Subject": "i", 
    "Name": "Sahiil",
    "Full_Name":"Sahiil Shriwardhankar", 
